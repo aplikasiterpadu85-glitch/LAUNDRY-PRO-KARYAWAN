@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Laundry ku pro",
-  "start_url": "/",
+  "start_url": "./index.html",
   "theme_color": "#2aebd6",
   "id": "Laundry_ku_Pro",
   "description": "aplikasi laundry berbasis web",
