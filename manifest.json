@@ -1,0 +1,17 @@
+{
+  "background_color": "#eddd6b",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "LAUNDRY KU PRO",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Laundry ku pro",
+  "start_url": "/",
+  "theme_color": "#2aebd6",
+  "id": "Laundry_ku_Pro",
+  "description": "aplikasi laundry berbasis web",
+  "lang": "id",
+  "categories": [
+    "business"
+  ]
+}
